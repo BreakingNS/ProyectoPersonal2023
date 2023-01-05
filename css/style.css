@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+
+.container-fluid{
+    text-align: center;
+}
+
+.logo-header{
+    width: 60px;
+}
+
+.logo-home, .cont-text-home{
+    margin: 5%;
+}
+
+.cont-text-home{
+    font-size: 24px;
+}
