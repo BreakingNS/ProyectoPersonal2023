@@ -18,6 +18,8 @@ body{
     font-size: 24px;
 }
 
-/* .registro{
-    border: 1px solid red;
-} */
+.registro, .login{
+    background-color: #92768f;
+    border: 4px dashed #a387a0;
+    border-radius: 29px;
+}
